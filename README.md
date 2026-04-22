@@ -130,7 +130,7 @@ I'm a third-year **Computer Engineering** student at **MIT Manipal**, focused on
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishna-086&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=krishna-086&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
 </div>
 
 ---
