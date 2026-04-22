@@ -129,9 +129,6 @@ I'm a third-year **Computer Engineering** student at **MIT Manipal**, focused on
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-086&theme=tokyonight&hide_border=true" height="180" alt="streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-086&theme=tokyo-night&hide_border=true" alt="activity graph" />
-</div>
 
 ---
 
