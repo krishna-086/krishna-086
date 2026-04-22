@@ -100,7 +100,7 @@ I'm a third-year **Computer Engineering** student at **MIT Manipal**, focused on
 
 ---
 
-### 🧬 Pharma Agentic AI
+### 🧬 PharmaHive
 > A multi-agent intelligence platform for pharmaceutical strategy. 8 specialized agents under a master orchestrator, each handling a domain (market data, patents, clinical trials, supply chain, sentiment) — coordinating to answer complex strategic queries.
 
 `Python` `Groq Llama 3 70B` `FastAPI` `Streamlit` `ChromaDB`
