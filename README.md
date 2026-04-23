@@ -120,7 +120,9 @@ I'm a third-year **Computer Engineering** student at **MIT Manipal**, focused on
 
 ### 🏃 Trackwell — AI Calorie Tracking & Fitness App
 > A cross-platform mobile fitness app with AI-powered calorie estimation from food images and real-time GPS activity tracking. Users log meals via camera, track workouts with route mapping, and monitor daily nutrition — all in one app.
+
 `React Native` `Expo` `Gemini Vision API` `Firebase` `Geolocation`
+
 📱 **Cross-platform (Android + iOS)** 
 ---
 
