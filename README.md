@@ -123,7 +123,7 @@ I'm a third-year **Computer Engineering** student at **MIT Manipal**, focused on
 
 `React Native` `Expo` `Gemini Vision API` `Firebase` `Geolocation`
 
-📱 **Cross-platform (Android + iOS)** 
+📱 **Cross-platform (Android + iOS)** ·
 ---
 
 ## 📊 GitHub Stats
