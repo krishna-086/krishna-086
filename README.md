@@ -137,6 +137,7 @@ I'm a third-year **Computer Engineering** student at **MIT Manipal**, focused on
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/krishna_086?theme=dark&font=baloo&ext=heatmap" alt="LeetCode stats" />
 </div>
+[![LeetCode Streak](https://leetcard.jacoblin.cool/krishna_086?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/u/krishna_086/)
 
 ---
 
