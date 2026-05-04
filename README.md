@@ -3,10 +3,13 @@
 </h1>
 
 <p align="center">
-  <em>Computer Engineering student @ MIT Manipal · CTO @ Crescentia One · Ex-SDE @ GoYaana</em>
+  <em>Computer Engineering student @ MIT Manipal · Founding Engineer @ Crescentia One LLP · Ex-SDE @ GoYaana</em>
 </p>
 
 <p align="center">
+  <a href="https://krishnaanand.dev">
+    <img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/krishnaanand0">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -28,10 +31,11 @@
 
 I'm a third-year **Computer Engineering** student at **MIT Manipal**, focused on shipping production systems — not building demos.
 
-- 🏢 **CTO @ Crescentia One** — leading end-to-end execution on production web platforms for paying clients
-- 💼 **Ex-SDE Intern @ GoYaana** — built a serverless travel-planning chatbot on AWS Lambda + LLM APIs
+- 🌐 **Portfolio:** [krishnaanand.dev](https://krishnaanand.dev)
+- 🏢 **Founding Engineer @ Crescentia One LLP** — leading end-to-end execution on production web platforms for paying clients
+- 💼 **Ex-SDE Intern @ GoYaana** — built a serverless travel-planning chatbot on AWS Lambda (Java) + LLM APIs
 - 🤖 **Building agentic AI systems** — multi-agent orchestration, LLM workflows, real deployments
-- 🎯 **Targeting:** SDE / Software Engineer Intern roles where I can ship at scale
+- 🎯 **Targeting:** SDE intern and full-time roles at top tech companies
 - 📫 **Reach me:** krishnanand86654@gmail.com
 
 ---
@@ -91,8 +95,10 @@ I'm a third-year **Computer Engineering** student at **MIT Manipal**, focused on
 
 ## 🤖 Featured Projects
 
+> **Want the full case studies? Visit [krishnaanand.dev](https://krishnaanand.dev) for deep-dives, architecture decisions, and trade-offs.**
+
 ### 💊 WhatsApp PharmAgent
-> An AI-powered WhatsApp pharmacy assistant on Azure with master-orchestrator agent architecture. Pharmacists manage stock, process invoices, and record sales through text, voice, or image — all via WhatsApp.
+> An AI-powered WhatsApp pharmacy assistant on Azure with multi-pipeline orchestration. Pharmacists manage stock, process invoices, and record sales through text, voice, or image — all via WhatsApp.
 
 `Azure Functions` `Azure OpenAI (GPT-4.1)` `Cosmos DB` `Document Intelligence` `Speech-to-Text` `Twilio` `Next.js`
 
@@ -103,27 +109,27 @@ I'm a third-year **Computer Engineering** student at **MIT Manipal**, focused on
 ### 🧬 PharmaHive
 > A multi-agent intelligence platform for pharmaceutical strategy. 8 specialized agents under a master orchestrator, each handling a domain (market data, patents, clinical trials, supply chain, sentiment) — coordinating to answer complex strategic queries.
 
-`Python` `Groq Llama 3 70B` `FastAPI` `Streamlit` `ChromaDB`
+`Python` `CrewAI` `Groq Llama 3 70B` `FastAPI` `Streamlit`
 
-🥈 **EY Techathon '26**
+🏆 **Top 2.3% of 200K+ teams** — EY Techathon 6.0 '26
 
 ---
 
 ### 🛒 Crescentia One — E-commerce Platform
-> Production-grade e-commerce platform for a retail client. Full-stack with payment + shipping integration, deployed on Hetzner with a Vercel-hosted admin dashboard.
+> Production-grade e-commerce platform for a Gen Z clothing brand. Full-stack with Razorpay payments and Delhivery shipping integration, deployed on Hetzner with Cloudflare R2 for image storage.
 
-`Next.js` `Express` `PostgreSQL` `Razorpay` `Delhivery API` `Hetzner` `Vercel`
+`Next.js` `Express` `TypeScript` `PostgreSQL (Neon)` `Prisma` `Better Auth` `Razorpay` `Delhivery` `Cloudflare R2` `Hetzner` `Vercel`
 
 🚀 **Live in production** · Source private (paid client work)
 
 ---
 
-### 🏃 Trackwell — AI Calorie Tracking & Fitness App
+### 🏃 TrackWell — AI Nutrition & Fitness App
 > A cross-platform mobile fitness app with AI-powered calorie estimation from food images and real-time GPS activity tracking. Users log meals via camera, track workouts with route mapping, and monitor daily nutrition — all in one app.
 
-`React Native` `Expo` `Gemini Vision API` `Firebase` `Geolocation`
+`React Native` `Expo SDK 54` `TypeScript` `Google Gemini 3 Flash` `Clerk` `Firebase Firestore` `FatSecret API` `Expo Location`
 
-📱 **Cross-platform (Android + iOS)** 
+📱 **Cross-platform (Android + iOS)**
 
 ---
 
@@ -137,7 +143,6 @@ I'm a third-year **Computer Engineering** student at **MIT Manipal**, focused on
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-086&theme=tokyonight&hide_border=true" height="180" alt="streak" />
 </div>
-
 
 ---
 
@@ -162,6 +167,9 @@ I'm a third-year **Computer Engineering** student at **MIT Manipal**, focused on
 I'm open to **SDE / Software Engineer Internships**, agentic AI projects, and open-source collaboration. If you're working on something interesting — reach out.
 
 <p>
+  <a href="https://krishnaanand.dev">
+    <img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/krishnaanand0">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
