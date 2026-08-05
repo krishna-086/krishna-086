@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>Computer Engineering student @ MIT Manipal · Founding Engineer @ Crescentia One LLP · Ex-SDE @ GoYaana</em>
+  <em>Computer Engineering @ MIT Manipal · Ex-SWE Intern @ Bajaj Finance · Founding Engineer @ Crescentia One LLP</em>
 </p>
 
 <p align="center">
@@ -32,8 +32,9 @@
 I'm a third-year **Computer Engineering** student at **MIT Manipal**, focused on shipping production systems — not building demos.
 
 - 🌐 **Portfolio:** [krishnaanand.dev](https://krishnaanand.dev)
+- 💼 **Ex-SWE Intern @ Bajaj Finance Ltd** (May–Jul 2026) — built an LLM orchestration pipeline for IT request automation under the Data Management team
 - 🏢 **Founding Engineer @ Crescentia One LLP** — leading end-to-end execution on production web platforms for paying clients
-- 💼 **Ex-SDE Intern @ GoYaana** — built a serverless travel-planning chatbot on AWS Lambda (Java) + LLM APIs
+- 🎓 **Ex-SDE Intern @ GoYaana** — built a serverless AI travel-planning backend on AWS Lambda (Java 21) + LLM APIs
 - 🤖 **Building agentic AI systems** — multi-agent orchestration, LLM workflows, real deployments
 - 🎯 **Targeting:** SDE intern and full-time roles at top tech companies
 - 📫 **Reach me:** krishnanand86654@gmail.com
@@ -95,7 +96,7 @@ I'm a third-year **Computer Engineering** student at **MIT Manipal**, focused on
 
 ## 🤖 Featured Projects
 
-> **Want the full case studies? Visit [krishnaanand.dev](https://krishnaanand.dev) for deep-dives, architecture decisions, and trade-offs.**
+> **Full case studies with architecture and trade-offs at [krishnaanand.dev](https://krishnaanand.dev).**
 
 ### 💊 WhatsApp PharmAgent
 > An AI-powered WhatsApp pharmacy assistant on Azure with multi-pipeline orchestration. Pharmacists manage stock, process invoices, and record sales through text, voice, or image — all via WhatsApp.
@@ -106,21 +107,30 @@ I'm a third-year **Computer Engineering** student at **MIT Manipal**, focused on
 
 ---
 
+### 🛒 Leopardol — E-commerce Platform
+> Production e-commerce platform for [Leopardol](https://leopardol.com/), a direct-to-consumer retail brand — built end-to-end as a client engagement through Crescentia One. Full-stack with authentication, Razorpay checkout, and Delhivery shipping integration.
+
+`Express.js` `TypeScript` `Better Auth` `Razorpay` `Delhivery` `PostgreSQL (Neon)` `AWS EC2` `Cloudflare R2`
+
+🌐 **Live:** [leopardol.com](https://leopardol.com/) · Source private (client work)
+
+---
+
+### 📈 ProfitMaster — Financial Education Platform
+> Two-app platform for [ProfitMaster](https://profitmaster.in/), a Telugu-language stock market education company — built as a client engagement through Crescentia One. Cloudflare Workers user site and Vercel admin dashboard sharing one Supabase Postgres schema, with atomic seat reservation for live seminar registrations.
+
+`Next.js` `Cloudflare Workers` `Vercel` `Supabase Postgres` `Razorpay` `Cloudflare R2`
+
+🌐 **Live:** [profitmaster.in](https://profitmaster.in/)
+
+---
+
 ### 🧬 PharmaHive
 > A multi-agent intelligence platform for pharmaceutical strategy. 8 specialized agents under a master orchestrator, each handling a domain (market data, patents, clinical trials, supply chain, sentiment) — coordinating to answer complex strategic queries.
 
 `Python` `CrewAI` `Groq Llama 3 70B` `FastAPI` `Streamlit`
 
-🏆 **Top 2.3% of 200K+ teams** — EY Techathon 6.0 '26
-
----
-
-### 🛒 Crescentia One — E-commerce Platform
-> Production-grade e-commerce platform for a Gen Z clothing brand. Full-stack with Razorpay payments and Delhivery shipping integration, deployed on Hetzner with Cloudflare R2 for image storage.
-
-`Next.js` `Express` `TypeScript` `PostgreSQL (Neon)` `Prisma` `Better Auth` `Razorpay` `Delhivery` `Cloudflare R2` `Hetzner` `Vercel`
-
-🚀 **Live in production** · Source private (paid client work)
+🏆 **Top 2.3% of 200K+ teams** — EY Techathon 6.0 '26 · Built with a team of 2
 
 ---
 
