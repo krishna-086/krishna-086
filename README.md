@@ -121,7 +121,7 @@ I'm a third-year **Computer Engineering** student at **MIT Manipal**, focused on
 
 `Next.js` `Cloudflare Workers` `Vercel` `Supabase Postgres` `Razorpay` `Cloudflare R2`
 
-🌐 **Live:** [profitmaster.in](https://profitmaster.in/)
+🌐 **Live:** [profitmaster.in](https://profitmaster.in/) · Source private (client work)
 
 ---
 
@@ -130,7 +130,7 @@ I'm a third-year **Computer Engineering** student at **MIT Manipal**, focused on
 
 `Python` `CrewAI` `Groq Llama 3 70B` `FastAPI` `Streamlit`
 
-🏆 **Top 2.3% of 200K+ teams** — EY Techathon 6.0 '26 · Built with a team of 2
+🏆 **Top 2.3% of 200K+ teams** — EY Techathon 6.0 '26 
 
 ---
 
