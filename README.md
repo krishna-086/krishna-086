@@ -29,7 +29,7 @@
 
 ## 🚀 About Me
 
-I'm a third-year **Computer Engineering** student at **MIT Manipal**, focused on shipping production systems — not building demos.
+I'm a final year **Computer Engineering** student at **MIT Manipal**, focused on shipping production systems, not building demos.
 
 - 🌐 **Portfolio:** [krishnaanand.dev](https://krishnaanand.dev)
 - 💼 **Ex-SWE Intern @ Bajaj Finance Ltd** (May–Jul 2026) — built an LLM orchestration pipeline for IT request automation under the Data Management team
